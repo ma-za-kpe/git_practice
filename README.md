@@ -1,2 +1,2 @@
 # git_practice
-this is a practice project for Newbies to web development, in the near future it gonna be ABANYOONYA website
+This is a long website that is being built, majorly for the purpose of learnig front end development. 
